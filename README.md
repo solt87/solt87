@@ -35,7 +35,8 @@ My main interests (within IT) are:
 
 - [free (as in freedom) software][freesoftware]
 
-- plain-text based document creation and sotware configuration
+- [plain-text based][composition] document creation and
+  sotware configuration
 
   - light-weight markup languages like [Markdown][markdown-page] and
     [AsciiDoc][asciidoc-page]
@@ -70,6 +71,8 @@ My main interests (within IT) are:
 [openwrt]: https://openwrt.org "OpenWRT home page"
 [freesoftware]: https://www.gnu.org/philosophy/free-sw.en.html
 "The definition of free software"
+[composition]: http://www.catb.org/~esr/writings/taoup/html/ch01s06.html#id2877684
+"The rule of composition"
 [markdown-page]: https://en.wikipedia.org/wiki/Markdown
 "Markdown page on Wikipedia"
 [asciidoc-page]: https://en.wikipedia.org/wiki/AsciiDoc
