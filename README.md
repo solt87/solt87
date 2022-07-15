@@ -58,7 +58,7 @@ My main interests (within IT) are:
       Using plain-text files to describe the state/configuration of
       systems can help create automated and version-controlled workflows,
       which means less manual work, and more transparency and
-      ease of reprofuction. See e.g. [Ansible][ansible] and [YAML][yaml].
+      ease of reproduction. See e.g. [Ansible][ansible] and [YAML][yaml].
 
 - automation -- because [manual work is a bug][mwiab]. :)
 
