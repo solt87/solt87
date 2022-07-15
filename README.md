@@ -59,6 +59,8 @@ My main interests (within IT) are:
       which means less manual work, and more transparency and
       ease of reprofuction. See e.g. [Ansible][ansible] and [YAML][yaml].
 
+- automation -- because [manual work is a bug][mwiab]. :)
+
 
 [srhtrepo]: https://git.sr.ht/~solt87 "My SourceHut repository"
 [ynotgh]: https://sanctum.geek.nz/why-not-github.html
@@ -85,3 +87,5 @@ My main interests (within IT) are:
 [ansible]: https://docs.ansible.com/ "Ansible documentation"
 [yaml]: https://en.wikipedia.org/wiki/YAML
 "YAML page on Wikipedia"
+[mwiab]: https://queue.acm.org/detail.cfm?id=3197520
+"'Manual work is a bug' article"
