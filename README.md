@@ -36,7 +36,7 @@ My main interests (within IT) are:
 - [free (as in freedom) software][freesoftware]
 
 - [plain-text based][composition] document creation and
-  sotware configuration
+  software configuration
 
   - light-weight markup languages like [Markdown][markdown-page] and
     [AsciiDoc][asciidoc-page]
