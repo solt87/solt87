@@ -4,7 +4,7 @@ Read(about)me.md
 About my GitHub presence
 ------------------------
 
-I moved my personal repositories to SourceHut; you can access them
+I moved my personal repositories to [SourceHut](https://sr.ht/~solt87/); you can access them
 [here][srhtrepo].
 
 I try to decrease my use of and reliance on GitHub. I currently
